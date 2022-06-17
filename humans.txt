@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Username: David Chisenga Email:davidchisenga09@gmail.com Github:DavidChisenga11
 
 # THANKS
 
