@@ -9,7 +9,7 @@ As Stated above, the main purpose is to provide simple examples for Git training
 ##Deployment
 
 ## How to contribute
-Sample website with plenty of files for demos
+Please fork this repository and then issue Pull Requests for review.
 
 ##Copyright
 2014 Git. Training.
